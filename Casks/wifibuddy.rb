@@ -1,6 +1,6 @@
 cask "wifibuddy" do
   version "1.0.0"
-  sha256 "646289f08b99ad43b88ac5f96a1cd2884e87ee9846b2327805a84c1bacfb1ba1"
+  sha256 "1cadc7b22ed4b4e6971d545c8337f4b897ec8fe6506a1c5c998327403255055a"
 
   url "https://github.com/ken7y/MacWifiBuddy/releases/download/v#{version}/WiFiBuddy-#{version}.zip"
   name "WiFiBuddy"
